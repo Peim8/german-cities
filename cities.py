@@ -1,0 +1,2 @@
+def cities():
+    print("Aachen")
