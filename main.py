@@ -3,4 +3,4 @@ import cities
 
 
 # Call function
-cities.cities()
+print(cities.cities())
